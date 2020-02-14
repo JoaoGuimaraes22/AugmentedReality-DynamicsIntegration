@@ -19,7 +19,7 @@ public class HTTPSend : MonoBehaviour
     IEnumerator Upload()
     {
 
-        string url = "https://prod-47.westeurope.logic.azure.com:443/workflows/d240ca70ef944676b6bdac9f546a2a85";
+        string url = "https://prod-42.westeurope.logic.azure.com:443/workflows/291bfb34679c4f789aaed9f65f10541c/triggers/manual/paths/invoke?api-version=2016-10-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=KrIctjAR-KhNmt6M-A5fXo_kfoGmk2C5aFeu_Y0oU38";
 
         List<IMultipartFormSection> formData = new List<IMultipartFormSection>();
         formData.Add(new MultipartFormFileSection("toogle1", ToogleOne.isOn.ToString()));
