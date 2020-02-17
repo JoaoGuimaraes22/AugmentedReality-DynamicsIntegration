@@ -25,6 +25,7 @@ public class HTTPSend : MonoBehaviour
         formData.Add(new MultipartFormFileSection("toogle1", ToogleOne.isOn.ToString()));
         formData.Add(new MultipartFormFileSection("toogle2", ToogleTwo.isOn.ToString()));
         formData.Add(new MultipartFormFileSection("inputText", InputText.text));
+        formData.Add(new MultipartFormFileSection("date", System.DateTime.Now.ToString()));
 
         UnityWebRequest www = UnityWebRequest.Post(url, formData);
         yield return www.SendWebRequest();

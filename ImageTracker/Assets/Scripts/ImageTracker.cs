@@ -28,7 +28,7 @@ public class ImageTracker : MonoBehaviour
     {
         foreach(var img in args.added)
         {
-            if (img.referenceImage.name.ToString() == "Logo")
+            if (img.referenceImage.name.ToString() == "Logo" || img.referenceImage.name.ToString().Contains("extintor") )
             {
                 if (auth.activeSelf)
                 {
