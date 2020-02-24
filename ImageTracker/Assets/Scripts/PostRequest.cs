@@ -6,12 +6,12 @@ using UnityEngine;
 using UnityEngine.Networking;
 using UnityEngine.UI;
 
-public class TestSend2 : MonoBehaviour
+public class PostRequest : MonoBehaviour
 {
     public Toggle ToogleOne;
     public Toggle ToogleTwo;
     public InputField InputText;
-    readonly string BaseUrl = "https://prod-42.westeurope.logic.azure.com:443/workflows/291bfb34679c4f789aaed9f65f10541c/triggers/manual/paths/invoke?api-version=2016-10-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=NcQujo3zMZPwZ-fl2jQSl9nl3guu29Frd2cnCA0TGyU";
+    readonly string BaseUrl = "https://prod-50.westeurope.logic.azure.com:443/workflows/c349e7ef97b647fa817c1b531974f7d1/triggers/manual/paths/invoke?api-version=2016-10-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=av7rXg0NXfJNLyo_iCMHdf0vUm1FOgEiGOmXJ6CVUno";
 
     public void Begin()
     {
