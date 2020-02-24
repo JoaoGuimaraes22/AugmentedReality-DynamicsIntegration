@@ -225,3 +225,103 @@ MonoBehaviour:
     m_SpecifySize: 0
     m_Name: extintor19
     m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4911894492619243720
+      m_GuidHigh: 3139971383855347074
+    m_SerializedTextureGuid:
+      m_GuidLow: 4887798753946428507
+      m_GuidHigh: 1708897842278963163
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: extintor20
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5074127682893733718
+      m_GuidHigh: 3025121622286843820
+    m_SerializedTextureGuid:
+      m_GuidLow: 6666458968146076911
+      m_GuidHigh: 13990590618591686395
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: extintor21
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5459444848795706999
+      m_GuidHigh: 5492112763224608941
+    m_SerializedTextureGuid:
+      m_GuidLow: 12237678096080176999
+      m_GuidHigh: 1138268542428061337
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: extintor22
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5634102583936432336
+      m_GuidHigh: 14272950395319638403
+    m_SerializedTextureGuid:
+      m_GuidLow: 1762137860561554470
+      m_GuidHigh: 11915394460897636106
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: extintor23
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4665661533452258069
+      m_GuidHigh: 4972309713927882662
+    m_SerializedTextureGuid:
+      m_GuidLow: 8251761107827782091
+      m_GuidHigh: 15263017109419626121
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: extintor24
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5155460632603066033
+      m_GuidHigh: 4220309979309236400
+    m_SerializedTextureGuid:
+      m_GuidLow: 9792213955740193476
+      m_GuidHigh: 9974303936222588810
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: extintor25
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4643298982234694449
+      m_GuidHigh: 15752341843536985265
+    m_SerializedTextureGuid:
+      m_GuidLow: 6198354480094350229
+      m_GuidHigh: 1590079124772614650
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: extintor26
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5275607999507457275
+      m_GuidHigh: 4459301288989506215
+    m_SerializedTextureGuid:
+      m_GuidLow: 7319575339963146343
+      m_GuidHigh: 1746235280615839705
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: extintor27
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4650645118744734367
+      m_GuidHigh: 5909057155686277045
+    m_SerializedTextureGuid:
+      m_GuidLow: 9837079997417967264
+      m_GuidHigh: 15571884220403737162
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: extintor28
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5586290690601222582
+      m_GuidHigh: 18027641067235910039
+    m_SerializedTextureGuid:
+      m_GuidLow: 4928259127943088619
+      m_GuidHigh: 2266497025942255243
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: extintor29
+    m_Texture: {fileID: 0}
