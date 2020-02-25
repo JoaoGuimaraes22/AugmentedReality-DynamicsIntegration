@@ -2611,7 +2611,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Nome: Maria Magalh\xE3es"
+  m_Text: "Nome: Jo\xE3o Guimar\xE3es"
 --- !u!222 &1098410774
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3804,10 +3804,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1984199146}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 488457bdcc4e43041be5b733b08eba4e, type: 3}
+  m_Script: {fileID: 11500000, guid: 93acd2052c5aeff4ba5d9637d074bdf4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  objToAlter: {fileID: 1984199146}
+  formObject: {fileID: 843298188}
   auth: {fileID: 1984199146}
 --- !u!1 &2130896204
 GameObject:
